@@ -1,0 +1,8 @@
+
+{
+  "name": "DawaVerify AI Pakistan",
+  "description": "AI-powered platform to verify medicine authenticity, simplify medical leaflets into Urdu, and ensure DRAP-compliant pricing for Pakistani citizens.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
